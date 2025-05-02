@@ -26,17 +26,19 @@ jobs:
     steps:
       - checkout
       - run:
-          name: Run SonarQube Analysis
+          name: Run SonarCloud Analysis
           command: |
             sonar-scanner \
-              -Dsonar.projectKey=$SONAR_PROJECT_KEY \
+              -Dsonar.projectKey=Andrewm424_customer-portal-secure \
               -Dsonar.sources=. \
-              -Dsonar.host.url=$SONAR_HOST_URL \
-              -Dsonar.login=$SONAR_TOKEN
+              -Dsonar.host.url=https://sonarcloud.io \
+              -Dsonar.login=${SONAR_TOKEN}
 
 workflows:
   version: 2
   build_and_analyze:
     jobs:
       - build
-      - sonar_scan
+      - sonar_scan:
+          requires:
+            - build
