@@ -1,0 +1,118 @@
+﻿@model Payment
+@{
+    ViewData["Title"] = "Make Payment";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="card shadow-sm mt-4">
+    <div class="card-header bg-primary text-white d-flex align-items-center">
+        <i class="bi bi-currency-exchange me-2"></i>
+        <strong>International Payment</strong>
+    </div>
+
+    <div class="card-body">
+        <form asp-action="MakePayment" method="post" id="paymentForm">
+            <div class="mb-3">
+                <label asp-for="Amount" class="form-label"></label>
+                <input asp-for="Amount" class="form-control" />
+                <span asp-validation-for="Amount" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="Currency" class="form-label"></label>
+                @{
+                    var preferredCurrency = Context.Session.GetString("Currency") ?? "ZAR";
+                }
+                <select asp-for="Currency" class="form-select">
+                    <option value="USD" selected="@(preferredCurrency == "USD")">USD</option>
+                    <option value="EUR" selected="@(preferredCurrency == "EUR")">EUR</option>
+                    <option value="ZAR" selected="@(preferredCurrency == "ZAR")">ZAR</option>
+                    <option value="GBP" selected="@(preferredCurrency == "GBP")">GBP</option>
+                </select>
+                <span asp-validation-for="Currency" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="Provider" class="form-label"></label>
+                <select asp-for="Provider" class="form-select">
+                    <option value="SWIFT">SWIFT</option>
+                </select>
+                <span asp-validation-for="Provider" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="PayeeAccount" class="form-label"></label>
+                <input asp-for="PayeeAccount" class="form-control" />
+                <span asp-validation-for="PayeeAccount" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="SwiftCode" class="form-label"></label>
+                <input asp-for="SwiftCode" class="form-control" />
+                <span asp-validation-for="SwiftCode" class="text-danger"></span>
+            </div>
+
+            <!-- Modal Trigger -->
+            <div class="d-grid">
+                <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#confirmModal">
+                    <i class="bi bi-credit-card"></i> Pay Now
+                </button>
+            </div>
+
+            <!-- Confirmation Modal -->
+            <div class="modal fade" id="confirmModal" tabindex="-1" aria-labelledby="confirmModalLabel" aria-hidden="true">
+                <div class="modal-dialog modal-dialog-centered">
+                    <div class="modal-content">
+                        <div class="modal-header bg-primary text-white">
+                            <h5 class="modal-title" id="confirmModalLabel"><i class="bi bi-shield-check"></i> Confirm Payment</h5>
+                            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                        </div>
+                        <div class="modal-body">
+                            Are you sure you want to proceed with this international payment?
+                        </div>
+                        <div class="modal-footer">
+                            <button type="button" class="btn btn-outline-secondary" data-bs-dismiss="modal">Cancel</button>
+                            <button type="submit" class="btn btn-success"><i class="bi bi-check-circle-fill"></i> Confirm & Pay</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </form>
+
+        <!-- Success Feedback -->
+        @if (TempData["Success"] != null)
+        {
+            <div class="toast-container position-fixed top-0 end-0 p-3" style="z-index: 1055;">
+                <div class="toast align-items-center text-bg-success border-0 show" role="alert">
+                    <div class="d-flex">
+                        <div class="toast-body">
+                            <i class="bi bi-check-circle-fill me-2"></i> @TempData["Success"]
+                        </div>
+                        <button type="button" class="btn-close btn-close-white me-2 m-auto" data-bs-dismiss="toast"></button>
+                    </div>
+                </div>
+            </div>
+
+            <div class="d-flex gap-3 mt-4">
+                <a href="@Url.Action("MakePayment", "Payment")" class="btn btn-outline-primary">
+                    <i class="bi bi-plus-circle"></i> Make Another Payment
+                </a>
+                <a href="@Url.Action("History", "Payment")" class="btn btn-outline-dark">
+                    <i class="bi bi-clock-history"></i> View History
+                </a>
+            </div>
+        }
+    </div>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+    <script>
+        window.onload = () => {
+            const toastEl = document.querySelector('.toast');
+            if (toastEl) {
+                new bootstrap.Toast(toastEl).show();
+            }
+        };
+    </script>
+}

@@ -1,0 +1,547 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\2025 Projects\\CustomerPortal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF44AED-DF3B-47C2-A665-3BBF97BEC38B}|CustomerPortal\\CustomerPortal.csproj|d:\\2025 projects\\customerportal\\customerportal\\views\\employee\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7AF44AED-DF3B-47C2-A665-3BBF97BEC38B}|CustomerPortal\\CustomerPortal.csproj|solutionrelative:customerportal\\views\\employee\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF44AED-DF3B-47C2-A665-3BBF97BEC38B}|CustomerPortal\\CustomerPortal.csproj|d:\\2025 projects\\customerportal\\customerportal\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AF44AED-DF3B-47C2-A665-3BBF97BEC38B}|CustomerPortal\\CustomerPortal.csproj|solutionrelative:customerportal\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF44AED-DF3B-47C2-A665-3BBF97BEC38B}|CustomerPortal\\CustomerPortal.csproj|d:\\2025 projects\\customerportal\\customerportal\\views\\payment\\makepayment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7AF44AED-DF3B-47C2-A665-3BBF97BEC38B}|CustomerPortal\\CustomerPortal.csproj|solutionrelative:customerportal\\views\\payment\\makepayment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF44AED-DF3B-47C2-A665-3BBF97BEC38B}|CustomerPortal\\CustomerPortal.csproj|d:\\2025 projects\\customerportal\\customerportal\\views\\payment\\history.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7AF44AED-DF3B-47C2-A665-3BBF97BEC38B}|CustomerPortal\\CustomerPortal.csproj|solutionrelative:customerportal\\views\\payment\\history.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF44AED-DF3B-47C2-A665-3BBF97BEC38B}|CustomerPortal\\CustomerPortal.csproj|d:\\2025 projects\\customerportal\\customerportal\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7AF44AED-DF3B-47C2-A665-3BBF97BEC38B}|CustomerPortal\\CustomerPortal.csproj|solutionrelative:customerportal\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF44AED-DF3B-47C2-A665-3BBF97BEC38B}|CustomerPortal\\CustomerPortal.csproj|d:\\2025 projects\\customerportal\\customerportal\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7AF44AED-DF3B-47C2-A665-3BBF97BEC38B}|CustomerPortal\\CustomerPortal.csproj|solutionrelative:customerportal\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF44AED-DF3B-47C2-A665-3BBF97BEC38B}|CustomerPortal\\CustomerPortal.csproj|d:\\2025 projects\\customerportal\\customerportal\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7AF44AED-DF3B-47C2-A665-3BBF97BEC38B}|CustomerPortal\\CustomerPortal.csproj|solutionrelative:customerportal\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF44AED-DF3B-47C2-A665-3BBF97BEC38B}|CustomerPortal\\CustomerPortal.csproj|d:\\2025 projects\\customerportal\\customerportal\\views\\shared\\_employeelayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7AF44AED-DF3B-47C2-A665-3BBF97BEC38B}|CustomerPortal\\CustomerPortal.csproj|solutionrelative:customerportal\\views\\shared\\_employeelayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF44AED-DF3B-47C2-A665-3BBF97BEC38B}|CustomerPortal\\CustomerPortal.csproj|d:\\2025 projects\\customerportal\\customerportal\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7AF44AED-DF3B-47C2-A665-3BBF97BEC38B}|CustomerPortal\\CustomerPortal.csproj|solutionrelative:customerportal\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF44AED-DF3B-47C2-A665-3BBF97BEC38B}|CustomerPortal\\CustomerPortal.csproj|d:\\2025 projects\\customerportal\\customerportal\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AF44AED-DF3B-47C2-A665-3BBF97BEC38B}|CustomerPortal\\CustomerPortal.csproj|solutionrelative:customerportal\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF44AED-DF3B-47C2-A665-3BBF97BEC38B}|CustomerPortal\\CustomerPortal.csproj|d:\\2025 projects\\customerportal\\customerportal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AF44AED-DF3B-47C2-A665-3BBF97BEC38B}|CustomerPortal\\CustomerPortal.csproj|solutionrelative:customerportal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF44AED-DF3B-47C2-A665-3BBF97BEC38B}|CustomerPortal\\CustomerPortal.csproj|d:\\2025 projects\\customerportal\\customerportal\\views\\employee\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7AF44AED-DF3B-47C2-A665-3BBF97BEC38B}|CustomerPortal\\CustomerPortal.csproj|solutionrelative:customerportal\\views\\employee\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF44AED-DF3B-47C2-A665-3BBF97BEC38B}|CustomerPortal\\CustomerPortal.csproj|d:\\2025 projects\\customerportal\\customerportal\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AF44AED-DF3B-47C2-A665-3BBF97BEC38B}|CustomerPortal\\CustomerPortal.csproj|solutionrelative:customerportal\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF44AED-DF3B-47C2-A665-3BBF97BEC38B}|CustomerPortal\\CustomerPortal.csproj|d:\\2025 projects\\customerportal\\customerportal\\models\\viewmodels\\employeeloginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AF44AED-DF3B-47C2-A665-3BBF97BEC38B}|CustomerPortal\\CustomerPortal.csproj|solutionrelative:customerportal\\models\\viewmodels\\employeeloginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF44AED-DF3B-47C2-A665-3BBF97BEC38B}|CustomerPortal\\CustomerPortal.csproj|d:\\2025 projects\\customerportal\\customerportal\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AF44AED-DF3B-47C2-A665-3BBF97BEC38B}|CustomerPortal\\CustomerPortal.csproj|solutionrelative:customerportal\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF44AED-DF3B-47C2-A665-3BBF97BEC38B}|CustomerPortal\\CustomerPortal.csproj|d:\\2025 projects\\customerportal\\customerportal\\data\\dbseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AF44AED-DF3B-47C2-A665-3BBF97BEC38B}|CustomerPortal\\CustomerPortal.csproj|solutionrelative:customerportal\\data\\dbseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF44AED-DF3B-47C2-A665-3BBF97BEC38B}|CustomerPortal\\CustomerPortal.csproj|d:\\2025 projects\\customerportal\\customerportal\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AF44AED-DF3B-47C2-A665-3BBF97BEC38B}|CustomerPortal\\CustomerPortal.csproj|solutionrelative:customerportal\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF44AED-DF3B-47C2-A665-3BBF97BEC38B}|CustomerPortal\\CustomerPortal.csproj|d:\\2025 projects\\customerportal\\customerportal\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AF44AED-DF3B-47C2-A665-3BBF97BEC38B}|CustomerPortal\\CustomerPortal.csproj|solutionrelative:customerportal\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF44AED-DF3B-47C2-A665-3BBF97BEC38B}|CustomerPortal\\CustomerPortal.csproj|d:\\2025 projects\\customerportal\\customerportal\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AF44AED-DF3B-47C2-A665-3BBF97BEC38B}|CustomerPortal\\CustomerPortal.csproj|solutionrelative:customerportal\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF44AED-DF3B-47C2-A665-3BBF97BEC38B}|CustomerPortal\\CustomerPortal.csproj|d:\\2025 projects\\customerportal\\customerportal\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AF44AED-DF3B-47C2-A665-3BBF97BEC38B}|CustomerPortal\\CustomerPortal.csproj|solutionrelative:customerportal\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF44AED-DF3B-47C2-A665-3BBF97BEC38B}|CustomerPortal\\CustomerPortal.csproj|d:\\2025 projects\\customerportal\\customerportal\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AF44AED-DF3B-47C2-A665-3BBF97BEC38B}|CustomerPortal\\CustomerPortal.csproj|solutionrelative:customerportal\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF44AED-DF3B-47C2-A665-3BBF97BEC38B}|CustomerPortal\\CustomerPortal.csproj|d:\\2025 projects\\customerportal\\customerportal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7AF44AED-DF3B-47C2-A665-3BBF97BEC38B}|CustomerPortal\\CustomerPortal.csproj|solutionrelative:customerportal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\2025 Projects\\CustomerPortal\\CustomerPortal\\Migrations\\20250502114857_InitClean.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CustomerPortal\\Migrations\\20250502114857_InitClean.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\2025 Projects\\CustomerPortal\\CustomerPortal\\Migrations\\20250502113914_AddCustomerIdToPayments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CustomerPortal\\Migrations\\20250502113914_AddCustomerIdToPayments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\2025 Projects\\CustomerPortal\\CustomerPortal\\Migrations\\20250502113351_MakeCustomerIdNullable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CustomerPortal\\Migrations\\20250502113351_MakeCustomerIdNullable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF44AED-DF3B-47C2-A665-3BBF97BEC38B}|CustomerPortal\\CustomerPortal.csproj|d:\\2025 projects\\customerportal\\customerportal\\migrations\\20250502074042_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AF44AED-DF3B-47C2-A665-3BBF97BEC38B}|CustomerPortal\\CustomerPortal.csproj|solutionrelative:customerportal\\migrations\\20250502074042_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF44AED-DF3B-47C2-A665-3BBF97BEC38B}|CustomerPortal\\CustomerPortal.csproj|d:\\2025 projects\\customerportal\\customerportal\\migrations\\20250502083934_addpaymentstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AF44AED-DF3B-47C2-A665-3BBF97BEC38B}|CustomerPortal\\CustomerPortal.csproj|solutionrelative:customerportal\\migrations\\20250502083934_addpaymentstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF44AED-DF3B-47C2-A665-3BBF97BEC38B}|CustomerPortal\\CustomerPortal.csproj|d:\\2025 projects\\customerportal\\customerportal\\migrations\\20250502153911_addemployeeandverifiedfields.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AF44AED-DF3B-47C2-A665-3BBF97BEC38B}|CustomerPortal\\CustomerPortal.csproj|solutionrelative:customerportal\\migrations\\20250502153911_addemployeeandverifiedfields.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF44AED-DF3B-47C2-A665-3BBF97BEC38B}|CustomerPortal\\CustomerPortal.csproj|d:\\2025 projects\\customerportal\\customerportal\\migrations\\20250502135951_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AF44AED-DF3B-47C2-A665-3BBF97BEC38B}|CustomerPortal\\CustomerPortal.csproj|solutionrelative:customerportal\\migrations\\20250502135951_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF44AED-DF3B-47C2-A665-3BBF97BEC38B}|CustomerPortal\\CustomerPortal.csproj|d:\\2025 projects\\customerportal\\customerportal\\migrations\\20250502115306_initcustomeridclean.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AF44AED-DF3B-47C2-A665-3BBF97BEC38B}|CustomerPortal\\CustomerPortal.csproj|solutionrelative:customerportal\\migrations\\20250502115306_initcustomeridclean.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF44AED-DF3B-47C2-A665-3BBF97BEC38B}|CustomerPortal\\CustomerPortal.csproj|d:\\2025 projects\\customerportal\\customerportal\\migrations\\20250502112901_addcustomeridtopayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AF44AED-DF3B-47C2-A665-3BBF97BEC38B}|CustomerPortal\\CustomerPortal.csproj|solutionrelative:customerportal\\migrations\\20250502112901_addcustomeridtopayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF44AED-DF3B-47C2-A665-3BBF97BEC38B}|CustomerPortal\\CustomerPortal.csproj|d:\\2025 projects\\customerportal\\customerportal\\migrations\\20250502112431_addcustomerpaymentrelation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AF44AED-DF3B-47C2-A665-3BBF97BEC38B}|CustomerPortal\\CustomerPortal.csproj|solutionrelative:customerportal\\migrations\\20250502112431_addcustomerpaymentrelation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MakePayment.cshtml",
+              "DocumentMoniker": "D:\\2025 Projects\\CustomerPortal\\CustomerPortal\\Views\\Payment\\MakePayment.cshtml",
+              "RelativeDocumentMoniker": "CustomerPortal\\Views\\Payment\\MakePayment.cshtml",
+              "ToolTip": "D:\\2025 Projects\\CustomerPortal\\CustomerPortal\\Views\\Payment\\MakePayment.cshtml",
+              "RelativeToolTip": "CustomerPortal\\Views\\Payment\\MakePayment.cshtml",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAqwHYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-02T08:45:20.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "History.cshtml",
+              "DocumentMoniker": "D:\\2025 Projects\\CustomerPortal\\CustomerPortal\\Views\\Payment\\History.cshtml",
+              "RelativeDocumentMoniker": "CustomerPortal\\Views\\Payment\\History.cshtml",
+              "ToolTip": "D:\\2025 Projects\\CustomerPortal\\CustomerPortal\\Views\\Payment\\History.cshtml",
+              "RelativeToolTip": "CustomerPortal\\Views\\Payment\\History.cshtml",
+              "ViewState": "AgIAACYAAAAAAAAAAAAqwEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-02T10:19:31.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PaymentController.cs",
+              "DocumentMoniker": "D:\\2025 Projects\\CustomerPortal\\CustomerPortal\\Controllers\\PaymentController.cs",
+              "RelativeDocumentMoniker": "CustomerPortal\\Controllers\\PaymentController.cs",
+              "ToolTip": "D:\\2025 Projects\\CustomerPortal\\CustomerPortal\\Controllers\\PaymentController.cs",
+              "RelativeToolTip": "CustomerPortal\\Controllers\\PaymentController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAmwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T08:40:55.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "D:\\2025 Projects\\CustomerPortal\\CustomerPortal\\Views\\Employee\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "CustomerPortal\\Views\\Employee\\Dashboard.cshtml",
+              "ToolTip": "D:\\2025 Projects\\CustomerPortal\\CustomerPortal\\Views\\Employee\\Dashboard.cshtml",
+              "RelativeToolTip": "CustomerPortal\\Views\\Employee\\Dashboard.cshtml",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAowE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-02T15:44:40.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\2025 Projects\\CustomerPortal\\CustomerPortal\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "CustomerPortal\\Views\\Account\\Register.cshtml",
+              "ToolTip": "D:\\2025 Projects\\CustomerPortal\\CustomerPortal\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "CustomerPortal\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAqwE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-02T08:30:18.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\2025 Projects\\CustomerPortal\\CustomerPortal\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "CustomerPortal\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\2025 Projects\\CustomerPortal\\CustomerPortal\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "CustomerPortal\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-02T19:10:19.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\2025 Projects\\CustomerPortal\\CustomerPortal\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CustomerPortal\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\2025 Projects\\CustomerPortal\\CustomerPortal\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CustomerPortal\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAqwEEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-02T09:33:17.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\2025 Projects\\CustomerPortal\\CustomerPortal\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "CustomerPortal\\Views\\Account\\Login.cshtml",
+              "ToolTip": "D:\\2025 Projects\\CustomerPortal\\CustomerPortal\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "CustomerPortal\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAACMAAAAAAAAAAAAqwEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-02T08:35:12.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_EmployeeLayout.cshtml",
+              "DocumentMoniker": "D:\\2025 Projects\\CustomerPortal\\CustomerPortal\\Views\\Shared\\_EmployeeLayout.cshtml",
+              "RelativeDocumentMoniker": "CustomerPortal\\Views\\Shared\\_EmployeeLayout.cshtml",
+              "ToolTip": "D:\\2025 Projects\\CustomerPortal\\CustomerPortal\\Views\\Shared\\_EmployeeLayout.cshtml",
+              "RelativeToolTip": "CustomerPortal\\Views\\Shared\\_EmployeeLayout.cshtml",
+              "ViewState": "AgIAABwAAAAAAAAAAAAqwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-02T18:55:56.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\2025 Projects\\CustomerPortal\\CustomerPortal\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "CustomerPortal\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\2025 Projects\\CustomerPortal\\CustomerPortal\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "CustomerPortal\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAmwEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T08:29:05.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\2025 Projects\\CustomerPortal\\CustomerPortal\\Program.cs",
+              "RelativeDocumentMoniker": "CustomerPortal\\Program.cs",
+              "ToolTip": "D:\\2025 Projects\\CustomerPortal\\CustomerPortal\\Program.cs",
+              "RelativeToolTip": "CustomerPortal\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T07:20:40.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EmployeeLoginViewModel.cs",
+              "DocumentMoniker": "D:\\2025 Projects\\CustomerPortal\\CustomerPortal\\Models\\ViewModels\\EmployeeLoginViewModel.cs",
+              "RelativeDocumentMoniker": "CustomerPortal\\Models\\ViewModels\\EmployeeLoginViewModel.cs",
+              "ToolTip": "D:\\2025 Projects\\CustomerPortal\\CustomerPortal\\Models\\ViewModels\\EmployeeLoginViewModel.cs",
+              "RelativeToolTip": "CustomerPortal\\Models\\ViewModels\\EmployeeLoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T15:58:05.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "D:\\2025 Projects\\CustomerPortal\\CustomerPortal\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "CustomerPortal\\Controllers\\EmployeeController.cs",
+              "ToolTip": "D:\\2025 Projects\\CustomerPortal\\CustomerPortal\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "CustomerPortal\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAgwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T15:42:45.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\2025 Projects\\CustomerPortal\\CustomerPortal\\Views\\Employee\\Login.cshtml",
+              "RelativeDocumentMoniker": "CustomerPortal\\Views\\Employee\\Login.cshtml",
+              "ToolTip": "D:\\2025 Projects\\CustomerPortal\\CustomerPortal\\Views\\Employee\\Login.cshtml",
+              "RelativeToolTip": "CustomerPortal\\Views\\Employee\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-02T15:44:14.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\2025 Projects\\CustomerPortal\\CustomerPortal\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "CustomerPortal\\Models\\Customer.cs",
+              "ToolTip": "D:\\2025 Projects\\CustomerPortal\\CustomerPortal\\Models\\Customer.cs",
+              "RelativeToolTip": "CustomerPortal\\Models\\Customer.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA4wBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T07:04:04.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DbSeeder.cs",
+              "DocumentMoniker": "D:\\2025 Projects\\CustomerPortal\\CustomerPortal\\Data\\DbSeeder.cs",
+              "RelativeDocumentMoniker": "CustomerPortal\\Data\\DbSeeder.cs",
+              "ToolTip": "D:\\2025 Projects\\CustomerPortal\\CustomerPortal\\Data\\DbSeeder.cs",
+              "RelativeToolTip": "CustomerPortal\\Data\\DbSeeder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T15:47:19.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "D:\\2025 Projects\\CustomerPortal\\CustomerPortal\\Models\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "CustomerPortal\\Models\\RegisterViewModel.cs",
+              "ToolTip": "D:\\2025 Projects\\CustomerPortal\\CustomerPortal\\Models\\RegisterViewModel.cs",
+              "RelativeToolTip": "CustomerPortal\\Models\\RegisterViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T08:24:57.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "20250502153911_AddEmployeeAndVerifiedFields.cs",
+              "DocumentMoniker": "D:\\2025 Projects\\CustomerPortal\\CustomerPortal\\Migrations\\20250502153911_AddEmployeeAndVerifiedFields.cs",
+              "RelativeDocumentMoniker": "CustomerPortal\\Migrations\\20250502153911_AddEmployeeAndVerifiedFields.cs",
+              "ToolTip": "D:\\2025 Projects\\CustomerPortal\\CustomerPortal\\Migrations\\20250502153911_AddEmployeeAndVerifiedFields.cs",
+              "RelativeToolTip": "CustomerPortal\\Migrations\\20250502153911_AddEmployeeAndVerifiedFields.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T15:39:11.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "D:\\2025 Projects\\CustomerPortal\\CustomerPortal\\Models\\Payment.cs",
+              "RelativeDocumentMoniker": "CustomerPortal\\Models\\Payment.cs",
+              "ToolTip": "D:\\2025 Projects\\CustomerPortal\\CustomerPortal\\Models\\Payment.cs",
+              "RelativeToolTip": "CustomerPortal\\Models\\Payment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T08:38:45.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\2025 Projects\\CustomerPortal\\CustomerPortal\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "CustomerPortal\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\2025 Projects\\CustomerPortal\\CustomerPortal\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "CustomerPortal\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T07:20:01.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\2025 Projects\\CustomerPortal\\CustomerPortal\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "CustomerPortal\\Models\\Employee.cs",
+              "ToolTip": "D:\\2025 Projects\\CustomerPortal\\CustomerPortal\\Models\\Employee.cs",
+              "RelativeToolTip": "CustomerPortal\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T15:34:02.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "D:\\2025 Projects\\CustomerPortal\\CustomerPortal\\Models\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "CustomerPortal\\Models\\LoginViewModel.cs",
+              "ToolTip": "D:\\2025 Projects\\CustomerPortal\\CustomerPortal\\Models\\LoginViewModel.cs",
+              "RelativeToolTip": "CustomerPortal\\Models\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T08:32:03.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\2025 Projects\\CustomerPortal\\CustomerPortal\\appsettings.json",
+              "RelativeDocumentMoniker": "CustomerPortal\\appsettings.json",
+              "ToolTip": "D:\\2025 Projects\\CustomerPortal\\CustomerPortal\\appsettings.json",
+              "RelativeToolTip": "CustomerPortal\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-02T08:02:54.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "20250502135951_Init.cs",
+              "DocumentMoniker": "D:\\2025 Projects\\CustomerPortal\\CustomerPortal\\Migrations\\20250502135951_Init.cs",
+              "RelativeDocumentMoniker": "CustomerPortal\\Migrations\\20250502135951_Init.cs",
+              "ToolTip": "D:\\2025 Projects\\CustomerPortal\\CustomerPortal\\Migrations\\20250502135951_Init.cs",
+              "RelativeToolTip": "CustomerPortal\\Migrations\\20250502135951_Init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T13:59:51.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "20250502115306_InitCustomerIdClean.cs",
+              "DocumentMoniker": "D:\\2025 Projects\\CustomerPortal\\CustomerPortal\\Migrations\\20250502115306_InitCustomerIdClean.cs",
+              "RelativeDocumentMoniker": "CustomerPortal\\Migrations\\20250502115306_InitCustomerIdClean.cs",
+              "ToolTip": "D:\\2025 Projects\\CustomerPortal\\CustomerPortal\\Migrations\\20250502115306_InitCustomerIdClean.cs",
+              "RelativeToolTip": "CustomerPortal\\Migrations\\20250502115306_InitCustomerIdClean.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T11:53:06.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20250502114857_InitClean.cs",
+              "DocumentMoniker": "D:\\2025 Projects\\CustomerPortal\\CustomerPortal\\Migrations\\20250502114857_InitClean.cs",
+              "RelativeDocumentMoniker": "CustomerPortal\\Migrations\\20250502114857_InitClean.cs",
+              "ToolTip": "D:\\2025 Projects\\CustomerPortal\\CustomerPortal\\Migrations\\20250502114857_InitClean.cs",
+              "RelativeToolTip": "CustomerPortal\\Migrations\\20250502114857_InitClean.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T11:48:57.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20250502113914_AddCustomerIdToPayments.cs",
+              "DocumentMoniker": "D:\\2025 Projects\\CustomerPortal\\CustomerPortal\\Migrations\\20250502113914_AddCustomerIdToPayments.cs",
+              "RelativeDocumentMoniker": "CustomerPortal\\Migrations\\20250502113914_AddCustomerIdToPayments.cs",
+              "ToolTip": "D:\\2025 Projects\\CustomerPortal\\CustomerPortal\\Migrations\\20250502113914_AddCustomerIdToPayments.cs",
+              "RelativeToolTip": "CustomerPortal\\Migrations\\20250502113914_AddCustomerIdToPayments.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T11:39:14.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20250502113351_MakeCustomerIdNullable.cs",
+              "DocumentMoniker": "D:\\2025 Projects\\CustomerPortal\\CustomerPortal\\Migrations\\20250502113351_MakeCustomerIdNullable.cs",
+              "RelativeDocumentMoniker": "CustomerPortal\\Migrations\\20250502113351_MakeCustomerIdNullable.cs",
+              "ToolTip": "D:\\2025 Projects\\CustomerPortal\\CustomerPortal\\Migrations\\20250502113351_MakeCustomerIdNullable.cs",
+              "RelativeToolTip": "CustomerPortal\\Migrations\\20250502113351_MakeCustomerIdNullable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T11:33:51.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "20250502112901_AddCustomerIdToPayment.cs",
+              "DocumentMoniker": "D:\\2025 Projects\\CustomerPortal\\CustomerPortal\\Migrations\\20250502112901_AddCustomerIdToPayment.cs",
+              "RelativeDocumentMoniker": "CustomerPortal\\Migrations\\20250502112901_AddCustomerIdToPayment.cs",
+              "ToolTip": "D:\\2025 Projects\\CustomerPortal\\CustomerPortal\\Migrations\\20250502112901_AddCustomerIdToPayment.cs",
+              "RelativeToolTip": "CustomerPortal\\Migrations\\20250502112901_AddCustomerIdToPayment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T11:29:01.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "20250502112431_AddCustomerPaymentRelation.cs",
+              "DocumentMoniker": "D:\\2025 Projects\\CustomerPortal\\CustomerPortal\\Migrations\\20250502112431_AddCustomerPaymentRelation.cs",
+              "RelativeDocumentMoniker": "CustomerPortal\\Migrations\\20250502112431_AddCustomerPaymentRelation.cs",
+              "ToolTip": "D:\\2025 Projects\\CustomerPortal\\CustomerPortal\\Migrations\\20250502112431_AddCustomerPaymentRelation.cs",
+              "RelativeToolTip": "CustomerPortal\\Migrations\\20250502112431_AddCustomerPaymentRelation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T11:24:31.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "20250502083934_AddPaymentsTable.cs",
+              "DocumentMoniker": "D:\\2025 Projects\\CustomerPortal\\CustomerPortal\\Migrations\\20250502083934_AddPaymentsTable.cs",
+              "RelativeDocumentMoniker": "CustomerPortal\\Migrations\\20250502083934_AddPaymentsTable.cs",
+              "ToolTip": "D:\\2025 Projects\\CustomerPortal\\CustomerPortal\\Migrations\\20250502083934_AddPaymentsTable.cs",
+              "RelativeToolTip": "CustomerPortal\\Migrations\\20250502083934_AddPaymentsTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T08:39:35.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20250502074042_InitialCreate.cs",
+              "DocumentMoniker": "D:\\2025 Projects\\CustomerPortal\\CustomerPortal\\Migrations\\20250502074042_InitialCreate.cs",
+              "RelativeDocumentMoniker": "CustomerPortal\\Migrations\\20250502074042_InitialCreate.cs",
+              "ToolTip": "D:\\2025 Projects\\CustomerPortal\\CustomerPortal\\Migrations\\20250502074042_InitialCreate.cs",
+              "RelativeToolTip": "CustomerPortal\\Migrations\\20250502074042_InitialCreate.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T07:40:43.339Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+﻿@{
+    ViewData["Title"] = "Welcome";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container mt-5">
+    <div class="text-center bg-white p-5 rounded shadow-sm border border-2">
+        <h1 class="display-5 fw-bold text-primary mb-3">
+            <i class="bi bi-globe2"></i> International Payments Portal
+        </h1>
+
+        <p class="lead text-muted mb-4">
+            A secure, unified platform for <strong>customers</strong> and <strong>employees</strong> to manage global transactions and streamline verifications.
+        </p>
+
+        <div class="d-flex justify-content-center gap-4">
+            <a asp-controller="Account" asp-action="Login" class="btn btn-outline-primary btn-lg">
+                <i class="bi bi-person-circle"></i> Customer Login
+            </a>
+
+            <a asp-controller="Employee" asp-action="Login" class="btn btn-outline-dark btn-lg">
+                <i class="bi bi-shield-lock-fill"></i> Employee Portal
+            </a>
+        </div>
+    </div>
+</div>
