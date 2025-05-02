@@ -1,0 +1,42 @@
+version: 2.1
+
+executors:
+  dotnet-executor:
+    docker:
+      - image: mcr.microsoft.com/dotnet/sdk:6.0
+
+jobs:
+  build:
+    executor: dotnet-executor
+    steps:
+      - checkout
+      - run:
+          name: Restore Dependencies
+          command: dotnet restore
+      - run:
+          name: Build Solution
+          command: dotnet build --no-restore
+      - run:
+          name: Run Tests
+          command: dotnet test --no-build
+
+  sonar_scan:
+    docker:
+      - image: sonarsource/sonar-scanner-cli:latest
+    steps:
+      - checkout
+      - run:
+          name: Run SonarQube Analysis
+          command: |
+            sonar-scanner \
+              -Dsonar.projectKey=$SONAR_PROJECT_KEY \
+              -Dsonar.sources=. \
+              -Dsonar.host.url=$SONAR_HOST_URL \
+              -Dsonar.login=$SONAR_TOKEN
+
+workflows:
+  version: 2
+  build_and_analyze:
+    jobs:
+      - build
+      - sonar_scan
